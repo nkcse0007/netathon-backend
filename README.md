@@ -1,2 +1,2 @@
 # netathon-backend
-[Datacube Link](https://192.168.0.204:5173/)
+[Datacube Link](http://192.168.0.204:5173/)

@@ -1,2 +1,2 @@
 # netathon-backend
-[Datacube Link](http://192.168.0.204:5173/)
+[Datacube Link](https://ef9b-203-129-220-43.ngrok-free.app)
